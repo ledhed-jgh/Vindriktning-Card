@@ -24,9 +24,8 @@ cards:
     state_color: false
 ````
 
-Copy the images in the 'wwww' to your config/www directory
+Copy the images in 'wwww' to your config/www directory.
 
 
-## :camera: Screenshots and Pictuers
-### Card Screenshot
+## :camera: Screenshot
 ![Card](docs/vindriktning-screenshot.png)
