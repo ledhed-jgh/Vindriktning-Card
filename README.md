@@ -27,7 +27,7 @@ cards:
 Copy the images in 'wwww' to your config/www directory.
 
 
-## :camera: Screenshot
+# :camera: Screenshot
 ![Card](docs/vindriktning-screenshot.png)
 
 
