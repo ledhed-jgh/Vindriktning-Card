@@ -22,3 +22,8 @@ cards:
     show_header_toggle: false
     state_color: false
 ````
+
+
+## :camera: Screenshots and Pictuers
+### Card Screenshot
+![Card](docs/vindriktning-screenshot.png)
