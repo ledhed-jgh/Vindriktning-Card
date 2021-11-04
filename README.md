@@ -4,7 +4,7 @@ Vindriktning Lovelace Card for Home Assistant
 
 # Card
 Create a Custom Card and paste this into the 'Code Editor'
-''''
+````
 type: vertical-stack
 cards:
   - type: picture-entity
@@ -21,4 +21,4 @@ cards:
         name: Indoor Air Quality
     show_header_toggle: false
     state_color: false
-''''
+````
