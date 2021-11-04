@@ -4,6 +4,7 @@ Vindriktning Lovelace Card for Home Assistant
 
 # Card
 Create a Custom Card and paste this into the 'Code Editor'
+You'll need to modify the entity names below to match yours.
 ````
 type: vertical-stack
 cards:
