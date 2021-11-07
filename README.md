@@ -4,7 +4,7 @@ Vindriktning Lovelace Card for Home Assistant
 # Template Sensor
 Add this to the sensor section of your configuration.yaml
 You'll need to modify the entity 'sensor.air_quality_index_vindriktning_pm2_5' below to match yours.
-````
+````yaml
 sensor:
   - platform: template
     sensors:
@@ -25,7 +25,7 @@ sensor:
 # Card
 Create a Custom Card and paste this into the 'Code Editor'.<br/>
 You'll need to modify the entity 'sensor.air_quality_index_vindriktning_pm2_5' below to match yours.
-````
+````yaml
 type: vertical-stack
 cards:
   - type: picture-entity
